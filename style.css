@@ -19,6 +19,7 @@ img:hover {
 }
 .toRight:hover div {
     width: 100%;
+<<<<<<< HEAD
     animation: leftToRight 3s;
 }
 @keyframes leftToRight{
@@ -28,5 +29,7 @@ img:hover {
     100%{
         width: 100%;
     }
+=======
+>>>>>>> a7fcc6ec94f0cd6e447dada1ac96790fe62a66ed
 }
 
